@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         Label.text = "world"
         print("hello")
         print("world")
+        print("newyork")
     }
 
 
