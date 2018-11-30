@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         super.viewDidAppear(true)
         Label.text = "world"
         print("hello")
+        print("world")
     }
 
 
